@@ -25,6 +25,7 @@
 		<arg name="verbose" value="true"/>
 	</include>
 	
+    
     <!-- send fake joint values -->
         <node name="joint_state_publisher_gui" pkg="joint_state_publisher_gui" type="joint_state_publisher_gui" />
 
