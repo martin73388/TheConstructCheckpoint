@@ -10,6 +10,9 @@
         <material>Gazebo/DarkGrey</material>
     </gazebo>
 
+    <gazebo reference="base_link">
+        <material>Gazebo/Black</material>
+    </gazebo>
 
 
 
