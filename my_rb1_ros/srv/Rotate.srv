@@ -1,0 +1,3 @@
+int32 degrees    # The number of degree the RB1 will turn
+---
+string result         #  that specifies if the rotation has been completed successfully or not.
